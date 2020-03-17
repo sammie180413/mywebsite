@@ -22,8 +22,9 @@ font-family: "arial black";
 }
 
 .body-text{
-font-family:'montserrat';
-	src: "images/Montserrat-ExtraLight.ttf";color: #ffffff;	color: black;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight: 300;
+color: #ffffff;	color: black;
 	padding-top: 15px;
 	padding-bottom: 20px;
 	
@@ -41,13 +42,12 @@ margin-right: auto;
 
 .quotes{
 	text-align: center;
-	font-family:'montserrat';
-	src: "images/Montserrat-ExtraLight.ttf";color: #ffffff;	color: black;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-weight: 300;
 }
-
 .bold{
 	text-align: center;
-	font-family: montserrat;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
   font-weight: bold;
 
 	
